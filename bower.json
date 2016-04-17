@@ -12,9 +12,9 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "Scripts/lib",
+    "js/lib",
     "test",
-    "tests"
+    "tests" 
   ],
   "dependencies": {
     "jquery": "^2.2.2",
