@@ -1,13 +1,13 @@
 {
-  "name": "Tropical North",
-  "homepage": "https://github.com/GeorgianCollege/COMP1073-Lesson12",
+  "name": "project2",
+  "homepage": "https://github.com/brad-langshaw/project2",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Brad Langshaw<brad.langshaw@live.ca>"
   ],
   "description": "",
   "main": "",
   "moduleType": [],
-  "license": "MIT",
+  "license": "Apache 2",
   "ignore": [
     "**/.*",
     "node_modules",
