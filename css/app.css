@@ -4,4 +4,6 @@
 
 #leftnav-container{
     width: 200px;
+    position: fixed;
+    left: 100%; 
 }
