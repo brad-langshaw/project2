@@ -18,6 +18,14 @@
   </head>
   <body>
     <h1>Boards</h1>
+            
+      <div class="gallery">
+        {% for image in images %}
+            <div class="gallery__item">
+            <img src="{{src}}" alt="{{alt}}">
+            </div>
+        {% endfor %}
+        </div>
     <
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

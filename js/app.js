@@ -1,11 +1,15 @@
-var gulp = require('gulp');
-var inject = require('gulp-inject');
- 
-gulp.task('index', function () {
-  var target = gulp.src('./index.html');
-  // It's not necessary to read the files (will speed up things), we're only after their paths: 
-  var sources = gulp.src(['./**/*.jpg'], {read: false});
- 
-  return target.pipe(inject(sources))
-    .pipe(gulp.dest('./'));
+var imagedata = require('gulp-data');
+.pipe(imagedata(function() {
+  return require('./images.json')
+   }))
+gulp.task('nunjucks', function() {
+  nunjucksRender.nunjucks.configure(['app/templates/']);
+
+  return gulp.src('.../**/*.+(html|nunjucks)')
+    // Adding data to Nunjucks
+    .pipe(imagedata(function() {
+      return require('./images.json')
+    }))
+    .pipe(nunjucksRender())
+    .pipe(gulp.dest('../'))
 });
