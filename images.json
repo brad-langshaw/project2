@@ -1,8 +1,38 @@
 images: [{
-  src: "item1.png",
+  src: "1.jpg",
   alt: "alt text for item1"
   }, {
-  src: "item2.png",
+  src: "2.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "3.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "4.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "5.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "6.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "7.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "8.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "9.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "10.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "11.jpg",
+  alt: "alt text for item1"
+  }, {
+  src: "12.jpg",
   alt: "alt text for item1"
   },
   // ... Until the end of data
