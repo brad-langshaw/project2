@@ -1,12 +1,12 @@
 .productimage {
-    display: inline;
+    display: block;
     width: 150px;
     margin-right: 20px;
     border: 1px solid darkolivegreen;
 }
 
 .productprice{
-    display: inline;
+    display: block;
 }
 
 #leftnav-container{
