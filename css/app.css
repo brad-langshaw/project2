@@ -6,4 +6,5 @@
     width: 200px;
     position: fixed;
     left: 0; 
+    border-right: 1px solid;
 }
