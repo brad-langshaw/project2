@@ -8,6 +8,7 @@ body{
     top: -100px;
 }
 .product-image {
+    margin: 20px;
     width: 150px;
 }
 
