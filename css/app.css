@@ -1,8 +1,12 @@
 .productimage {
-    position: relative;
+    display: inline;
     width: 150px;
     margin-right: 20px;
     border: 1px solid darkolivegreen;
+}
+
+.productprice{
+    display: inline;
 }
 
 #leftnav-container{
