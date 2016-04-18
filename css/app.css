@@ -3,8 +3,9 @@ body{
 }
 
 #logo{
-    width: 40%;
-    margin-top: -100;
+    width: 50%;
+    position: relative;
+    top: 100px;
 }
 .product-image {
     width: 150px;
