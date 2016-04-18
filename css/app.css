@@ -1,7 +1,7 @@
 body{
     max-height: 1000px;
 }
-.productimage {
+.product-image {
     width: 150px;
     margin-right: 20px;
     border: 1px solid darkolivegreen;
@@ -17,8 +17,4 @@ body{
     position: fixed;
     left: 0; 
     border-right: 1px solid darkolivegreen;
-}
-
-#productsection{
-    display: inline-block;
 }
