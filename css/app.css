@@ -2,8 +2,8 @@ body{
     max-height: 1000px;
 }
 
-.logo{
-    width: 1%;
+#logo{
+    width: 20%;
 }
 .product-image {
     width: 150px;
