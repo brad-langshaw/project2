@@ -76,7 +76,7 @@ and (orientation : portrait) {
 and (min-width : 1224px) {
     /* Styles */
     #container{
-        width: 1080px;
+        width: 90%;
     }
     
     #leftnav-container{
