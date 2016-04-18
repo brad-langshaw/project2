@@ -22,6 +22,7 @@ body{
 
 .product-card {
   flex: 1 16%;
+  margin-left: 10px;
   border: 1px solid darkolivegreen;
 }
 
