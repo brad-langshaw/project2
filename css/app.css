@@ -7,7 +7,9 @@ body{
     border: 1px solid darkolivegreen;
 }
 
-
+#container{
+        width: 1080px;
+    }
 
 #leftnav-container{
     width: 200px;
