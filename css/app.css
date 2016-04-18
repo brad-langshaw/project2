@@ -22,3 +22,7 @@ body{
   display: flex;
   flex-wrap: wrap;
 }
+
+.product-card {
+  flex: 1 16%;
+}
