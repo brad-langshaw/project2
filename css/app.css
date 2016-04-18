@@ -80,10 +80,11 @@ and (min-width : 1224px) {
     }
     
     #leftnav-container{
-    width: 200px;
+    width: 400px;
     position: fixed;
     left: 0; 
     border-right: 1px solid darkolivegreen;
+    align-content: right;
 }
 
 
