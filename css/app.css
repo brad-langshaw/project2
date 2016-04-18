@@ -8,7 +8,9 @@ body{
 }
 
 
-
+.container{
+    width: 1080px;
+}
 
 #leftnav-container{
     width: 200px;
