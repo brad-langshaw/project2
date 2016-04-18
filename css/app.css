@@ -1,6 +1,7 @@
 .productimage {
     width: 150px;
     margin: 20px;
+    border: 1px solid darkolivegreen;
 }
 
 #leftnav-container{
