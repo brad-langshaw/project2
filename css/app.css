@@ -4,7 +4,6 @@ body{
 .product-image {
     width: 150px;
     margin-right: 30px;
-    border: 1px solid darkolivegreen;
 }
 
 #container{
@@ -25,4 +24,5 @@ body{
 
 .product-card {
   flex: 1 16%;
+  border: 1px solid darkolivegreen;
 }
