@@ -114,7 +114,9 @@ and (min-width : 1024px) {
 }
 
 
-
+ #menu{
+        display: inline;
+    }
 
 .products {
   display: flex;
@@ -235,6 +237,11 @@ and (orientation : portrait) {
       ul.navbar-right{
         position: relative;
         top: 50px;
+      }
+      
+    #menu{
+        display: inline;
+    }
         
     }
     
