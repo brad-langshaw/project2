@@ -54,11 +54,10 @@ and (min-width : 321px) {
     width: 100%;
     position: relative;
     top: 40px;
-    left: 0px; 
+    left: 1000px; 
     max-height: 150px;
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
-    display: none;
     }
     
     
@@ -86,7 +85,7 @@ and (min-width : 321px) {
     }
     
     
-   #dropdown{
+   #mobilemenu{
         display: inline;
     }
 
@@ -153,7 +152,7 @@ and (min-width : 1024px) {
         color: #fff;
     }
     
-    #dropdown{
+    #mobilemenu{
         display: none;
     }
 }
@@ -251,7 +250,7 @@ and (orientation : portrait) {
         position: relative;
         top: 75px;
     }
-       #dropdown{
+       #mobilemenu{
         display: none;
     }
 
@@ -316,7 +315,7 @@ and (min-width : 1024px) {
     div#leftnav ul li{
         color: #fff;
     }
-       #dropdown{
+       #mobilemenu{
         display: none;
     }
     
