@@ -26,8 +26,6 @@ and (min-width : 321px) {
          
 #logo{
     width: 70%;
-    position: relative;
-    top: -155px;
 }
 .product-image {
     margin: 30px;
