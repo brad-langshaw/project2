@@ -62,7 +62,6 @@ and (orientation : portrait) {
 
 
 .products {
-  top: 100px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -79,9 +78,9 @@ and (orientation : portrait) {
     background:  green;
      z-index: -1;
     width: 100%;
-    position: fixed;
+    position: relativ;
     left: 0; 
-    top: 110px;
+    top: 150px;
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
     }
@@ -101,6 +100,11 @@ and (orientation : portrait) {
     }
     div#leftnav ul li{
         color: #fff;
+    }
+    
+    #productsection{
+        position: relative;
+        top: 100px;
     }
 
 }
