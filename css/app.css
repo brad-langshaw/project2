@@ -92,7 +92,7 @@ and (orientation : portrait) {
     div#leftnav ul li a:visited{
         color: #fff;
     }
-    div#leftnav ul li a{
+    div#leftnav ul li{
         color: #fff;
     }
 
