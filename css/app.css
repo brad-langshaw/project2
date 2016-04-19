@@ -132,6 +132,7 @@ and (min-width : 1024px) {
 }
 
     #leftnav-container{
+    background:  green;
     width: 200px;
     position: fixed;
     left: 0; 
@@ -144,6 +145,17 @@ and (min-width : 1024px) {
         position: relative;
         top: 50px;
         
+    }
+    
+     div#leftnav ul li a:link{
+        color: #fff;
+    }
+    
+    div#leftnav ul li a:visited{
+        color: #fff;
+    }
+    div#leftnav ul li{
+        color: #fff;
     }
     
 } 
