@@ -34,6 +34,7 @@ and (max-device-width : 1024px) {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape) {
+        
     #leftnav-container{
     background:  green;
      z-index: -1;
@@ -91,7 +92,7 @@ and (orientation : portrait) {
     background:  green;
      z-index: -1;
     width: 100%;
-    position: relative;
+    position: fixed;
     top: 40px;
     left: 0; 
     max-height: 150px;
