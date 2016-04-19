@@ -84,6 +84,10 @@ and (orientation : portrait) {
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
     }
+    
+    div#leftnav ul li a:link{
+        color: #fff;
+    }
 
 }
 
