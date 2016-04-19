@@ -54,10 +54,11 @@ and (min-width : 321px) {
     width: 100%;
     position: relative;
     top: 40px;
-    left: 1000px; 
+    left: 0px; 
     max-height: 150px;
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
+    display: none;
     }
     
     
