@@ -78,7 +78,8 @@ and (orientation : portrait) {
     background:  green;
      z-index: -1;
     width: 100%;
-    position: relativ;
+    position: relative;
+    top: 40px;
     left: 0; 
     max-height: 150px;
     border-bottom: 1px solid darkolivegreen;
