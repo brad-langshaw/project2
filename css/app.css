@@ -85,6 +85,12 @@ and (orientation : portrait) {
         height: 200px;
     }
          
+    #leftnav-container{
+    width: 200px;
+    position: relative;
+    left: 1000000px; 
+    top: 100px;
+    border-right: 1px solid darkolivegreen;
     }
     
 
