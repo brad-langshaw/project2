@@ -136,12 +136,12 @@ and (min-width : 1024px) {
     width: 200px;
     position: fixed;
     left: 0; 
-    top: 100px;
+    top: 150px;
     border-right: 1px solid darkolivegreen;
     }
     
 
-    ul{
+    ul.navbar-right{
         position: relative;
         top: 50px;
         
