@@ -27,6 +27,14 @@ body{
   border: 1px solid darkolivegreen;
 }
 
+    #leftnav-container{
+    width: 200px;
+    position: fixed;
+    left: 0; 
+    border-right: 1px solid darkolivegreen;
+    }
+    
+
 
 
 /* Smartphones (portrait and landscape) ----------- */
@@ -89,12 +97,7 @@ and (min-width : 1224px) {
         width: 80%;
     }
     
-    #leftnav-container{
-    width: 200px;
-    position: fixed;
-    left: 0; 
-    border-right: 1px solid darkolivegreen;
-    }
+
     ul{
         position: relative;
         top: 50px;
