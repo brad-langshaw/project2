@@ -229,7 +229,7 @@ and (orientation : portrait) {
     position: relative;
     top: 40px;
     left: 0; 
-    max-height: 1500px;
+    max-height: 150px;
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
     }
@@ -302,6 +302,7 @@ and (min-width : 1024px) {
     #leftnav-container{
     background:  green;
     width: 200px;
+    max-height: 1500px;
     position: fixed;
     left: 0; 
     top: 150px;
