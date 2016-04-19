@@ -80,7 +80,7 @@ and (orientation : portrait) {
     width: 100%;
     position: relativ;
     left: 0; 
-    max-height: 200px;
+    max-height: 150px;
     border-bottom: 1px solid darkolivegreen;
     border-top: 1px solid darkolivegreen;
     }
