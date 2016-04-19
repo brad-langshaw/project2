@@ -302,7 +302,7 @@ and (min-width : 1024px) {
     #leftnav-container{
     background:  green;
     width: 200px;
-    max-height: 1500px;
+    min-height: 1500px;
     position: fixed;
     left: 0; 
     top: 150px;
