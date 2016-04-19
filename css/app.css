@@ -268,7 +268,7 @@ and (orientation : portrait) {
 
 /* Desktops and laptops ----------- */
 @media only screen 
-and (min-width : 1024px) {
+and (min-width : 1025px) {
     /* Styles */
  body{
     font-family: Arial, Helvetica, sans-serif;
@@ -302,7 +302,7 @@ and (min-width : 1024px) {
     #leftnav-container{
     background:  green;
     width: 200px;
-    min-height: 1500px;
+    height: auto;
     position: fixed;
     left: 0; 
     top: 150px;
