@@ -47,7 +47,9 @@ and (orientation : portrait) {
      font-family: arial;
     } 
     header{
-        height: 1750px;
+        height: 175px;
+        position: relative;
+        top: 30px;
     }
          
 #logo{
