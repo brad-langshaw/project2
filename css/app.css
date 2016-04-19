@@ -88,6 +88,13 @@ and (orientation : portrait) {
     div#leftnav ul li a:link{
         color: #fff;
     }
+    
+    div#leftnav ul li a:visited{
+        color: #fff;
+    }
+    div#leftnav ul li a{
+        color: #fff;
+    }
 
 }
 
