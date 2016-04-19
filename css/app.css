@@ -55,7 +55,7 @@ and (orientation : portrait) {
 #logo{
     width: 70%;
     position: relative;
-    top: -165px;
+    top: -155px;
 }
 .product-image {
     margin: 30px;
