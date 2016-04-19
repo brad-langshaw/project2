@@ -88,7 +88,7 @@ and (min-width : 1224px) {
     }
     ul{
         position: relative;
-        top: 20px;
+        top: 50px;
         
     }
 } }
