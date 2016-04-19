@@ -47,7 +47,7 @@ and (orientation : portrait) {
      font-family: arial;
     } 
     header{
-        height: 200px;
+        height: 150px;
     }
          
 #logo{
@@ -59,8 +59,6 @@ and (orientation : portrait) {
     margin: 30px;
     width: 150px;
 }
-
-
 
 
 .products {
@@ -75,12 +73,12 @@ and (orientation : portrait) {
   border: 1px solid darkolivegreen;
 }
 
-    #leftnav-container{
-    width: 200px;
+ #leftnav-container{
+    width: 100%;
     position: fixed;
     left: 0; 
     top: 100px;
-    border-right: 1px solid darkolivegreen;
+    border-bottom: 1px solid darkolivegreen;
     }
     
 
