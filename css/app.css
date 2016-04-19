@@ -34,18 +34,6 @@ and (max-device-width : 1024px) {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : landscape) {
-        
-    #leftnav-container{
-    background:  green;
-     z-index: -1;
-    width: 100%;
-    position: relative;
-    top: 40px;
-    left: 0; 
-    max-height: 150px;
-    border-bottom: 1px solid darkolivegreen;
-    border-top: 1px solid darkolivegreen;
-    }
 /* Styles */
 }
 
@@ -92,7 +80,7 @@ and (orientation : portrait) {
     background:  green;
      z-index: -1;
     width: 100%;
-    position: fixed;
+    position: relative;
     top: 40px;
     left: 0; 
     max-height: 150px;
