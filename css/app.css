@@ -68,6 +68,10 @@ and (orientation : landscape) {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : portrait) {
+    ul{
+        position: relative;
+        top: 50px;
+    }
     
 /* Styles */
 }
@@ -91,7 +95,7 @@ and (min-width : 1224px) {
         top: 50px;
         
     }
-} }
+} 
 
 /* Large screens ----------- */
 @media only screen 
