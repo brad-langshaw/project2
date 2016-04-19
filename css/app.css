@@ -75,6 +75,7 @@ and (orientation : portrait) {
 }
 
  #leftnav-container{
+    background:  green;
      z-index: -1;
     width: 100%;
     position: fixed;
