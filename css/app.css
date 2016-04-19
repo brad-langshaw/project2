@@ -50,14 +50,45 @@ and (orientation : portrait) {
         height: 200px;
     }
          
+#logo{
+    width: 50%;
+    position: relative;
+    top: -100px;
+}
+.product-image {
+    margin: 30px;
+    width: 150px;
+}
+
+
+
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  flex: 1 16%;
+  margin-left: 10px;
+  margin-top: 10px;
+  border: 1px solid darkolivegreen;
+}
+
     #leftnav-container{
     width: 200px;
-    position: relative;
-    left: 1000000px; 
+    position: fixed;
+    left: 0; 
     top: 100px;
     border-right: 1px solid darkolivegreen;
     }
     
+
+    ul{
+        position: relative;
+        top: 50px;
+        
+    }
 
 }
 
