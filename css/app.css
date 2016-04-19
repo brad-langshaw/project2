@@ -68,12 +68,12 @@ and (orientation : landscape) {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px) 
 and (orientation : portrait) {
-    ul{
-        position: relative;
-        top: 70px;
+/* Styles */    
+    header{
+     height: 200px;
     }
     
-/* Styles */
+
 }
 
 /* Desktops and laptops ----------- */
